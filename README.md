@@ -3,7 +3,7 @@
  - I am currently looking for entry level coding positions, but I've handicapped myself by living in remote Vermont.
  - I also love playing with tech. For me this includes buidling personal PCs, creating a home lab with several RaspberryPis, and "testing" all the cheap bluetooth headphones my wallet can afford.
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/dwmorrigan/)](https://linkedin.com/in/dwmorrigan)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/danforth-morrigan/)](https://www.linkedin.com/in/danforth-morrigan/)
 
 ## I tend to play with:
 <div>
